@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/thomtare/Documents/Assets/EngineLighting 5.1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/thomtare/Documents/Assets/EngineLighting 5.1/Content/Blueprints/GameMode_BP.uasset",
+				"C:/Users/thomtare/Documents/Assets/EngineLighting 5.1/Content/EF_FirstFloor/Maps/FirstFloor_BuiltData.uasset",
+				"C:/Users/thomtare/Documents/Assets/EngineLighting 5.1/Content/EF_FirstFloor/Maps/FirstFloor.umap",
+				"C:/Users/thomtare/Documents/Assets/EngineLighting 5.1/Content/Blueprints/WBP_Menu.uasset",
+				"C:/Users/thomtare/Documents/Assets/EngineLighting 5.1/Content/Blueprints/GM_Cinemati.uasset",
+				"C:/Users/thomtare/Documents/Assets/EngineLighting 5.1/Content/Blueprints/GM_Cinematic.uasset",
 				"C:/Users/thomtare/Desktop/Assets/EngineLighting 5.1/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/thomtare/Desktop/Assets/EngineLighting 5.1/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset",
 				"C:/Users/thomtare/Desktop/Assets/EngineLighting 5.1/Content/EF_FirstFloor/Maps/FirstFloor.umap",
